@@ -28,7 +28,7 @@ Here's step by step of what to do before we start!
 
     ```
     cd ~/Desktop
-    git clone https://github.com/calvin-is-seksy/womenHacksWorkshop.git
+    git clone https://github.com/ananyaharavu/womenHacksWS.git
     cd womenHacksWorkshop
     ```
     
